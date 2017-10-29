@@ -1,0 +1,11 @@
+Package: biglinux-manual
+Version: 1.0.0-1big1
+Depends:
+Architecture: all
+Maintainer: Tales Mendonca Araujo <www.talesam.org>
+Section: admin
+Priority: optional
+Installed-Size:1616
+Description: Pequeno guia de uso do BigLinux
+
+

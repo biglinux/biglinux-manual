@@ -1,0 +1,5 @@
+f528cf6bc15f5c38a739160ecbd44489  DEBIAN/control
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+8f6f132f5ec7e191e229c9b50aecf883  usr/bin/biglinux-manual-create-link.sh
+c728e6f0253aacc4fa6139344a86cabc  usr/share/biglinux/Introdução ao BigLinux.pdf
+eee4d1b4f29f2d6772ce44c2cd379e2f  etc/xdg/autostart/biglinux-manual.desktop
